@@ -74,6 +74,8 @@ resource "aws_vpc_endpoint" "bedrock_endpoint" {
   vpc_endpoint_type = "Interface"
   security_group_ids = [aws_security_group.vpc_sg.id]
 }
+```
+
 🧠 Observability & Compliance
 Amazon CloudWatch: Monitors metrics and embedding jobs
 
