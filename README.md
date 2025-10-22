@@ -116,4 +116,4 @@ Cloud Solutions Architect
 
 🔗 https://www.linkedin.com/in/david-kljajo/
  🧠 https://www.linkedin.com/in/david-kljajo/
- 💼 https:/dkljajo.github.io
+ 💼 https://dkljajo.github.io
