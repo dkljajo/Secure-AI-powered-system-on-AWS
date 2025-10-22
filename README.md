@@ -77,6 +77,7 @@ resource "aws_vpc_endpoint" "bedrock_endpoint" {
 ```
 
 🧠 Observability & Compliance
+
 Amazon CloudWatch: Monitors metrics and embedding jobs
 
 AWS CloudTrail: Tracks API-level activity
@@ -85,7 +86,9 @@ Amazon GuardDuty: Detects threats and anomalies
 
 Amazon SNS: Sends automated security alerts
 
+
 💸 Cost Optimization
+
 S3 lifecycle policies to archive old data
 
 Use Bedrock on-demand model scaling
@@ -94,25 +97,23 @@ Batch embedding jobs for cost efficiency
 
 Turn off idle pipelines automatically
 
+
 🌱 Sustainability Practices
+
 Consolidate compute within one AWS region
 
 Use adaptive compute scaling in Bedrock
 
 Remove outdated embeddings regularly
 
-📚 Further Reading
-🧩 AWS Well-Architected Framework: Security Pillar
 
-☁️ Amazon Bedrock Documentation
-
-🧠 Medium Article: How We Built a Secure AI Knowledge System on AWS (Add your Medium link here)
-
-⚙️ Terraform Docs: Terraform AWS Provider
 
 🧑‍💻 Author
+
 David Kljajo
-Cloud Solutions Architect | AWS Security Specialist
+
+Cloud Solutions Architect 
+
 🔗 https://www.linkedin.com/in/david-kljajo/
  🧠 https://www.linkedin.com/in/david-kljajo/
  💼 https:/dkljajo.github.io
